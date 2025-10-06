@@ -20,12 +20,6 @@ venv/
 .Rproj.user/
 *.Rproj
 
-# Data files
-*.csv
-*.xlsx
-*.xls
-data/
-
 # Models
 models/*.rds
 models/*.pkl

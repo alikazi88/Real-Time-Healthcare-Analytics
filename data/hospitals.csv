@@ -1,0 +1,26 @@
+hospital_id,hospital_name,address,city,state,zip_code,phone,total_beds,available_beds,hospital_type,trauma_level
+H40001,Smithmouth General Hospital,5897 James Club Apt. 457,Lake Dawn,MH,65782,(394)527-1394,547,80,Teaching,
+H40002,Montgomerychester Community Hospital,6961 Rivera Motorway,New Jackview,GU,16317,+1-840-752-9353x6582,787,21,Specialty,III
+H40003,Davidtown Community Hospital,13803 Kimberly Villages,Fernandezfurt,UT,15269,248-290-7397,379,10,Specialty,I
+H40004,Howellfurt Regional Hospital,80576 Hatfield Highway Suite 469,Thompsonberg,TX,65483,705-344-1114,524,43,Teaching,IV
+H40005,Port Reginaldborough Regional Hospital,712 Roberto Neck Suite 650,East Jasonberg,KY,36790,(658)240-2812x2163,713,212,General,II
+H40006,South Jessica Regional Hospital,968 Philip Trail Suite 768,North Benjamin,VA,69506,(439)653-0010x7856,330,12,Specialty,I
+H40007,Melissabury Community Hospital,71944 Christopher Mills Apt. 061,Lake Kelly,WY,99625,505-951-9325,726,83,Community,
+H40008,Jennamouth Community Hospital,2515 Cole Creek Suite 617,South Ronald,LA,15890,+1-394-271-5044x81617,436,79,Community,
+H40009,Alexisborough Regional Hospital,522 Thomas Mountains Suite 266,Port Stephaniemouth,IN,47662,001-297-988-1055x266,112,20,Teaching,III
+H40010,Port Christophermouth Community Hospital,2064 Ronald Fall,North David,VA,69456,405.369.9576,555,48,Community,II
+H40011,Michaelborough General Hospital,591 Kevin Throughway,South Thomas,MD,31265,901-481-2084,645,188,Community,III
+H40012,Holmesside Medical Center,8507 Erin Route Apt. 706,Jacksonland,MI,87614,+1-736-367-5739x653,512,18,Community,
+H40013,Michaelshire General Hospital,6555 Williams Green Suite 522,West Loretta,AR,18705,(804)903-5997x603,453,20,Teaching,III
+H40014,Mitchellton Regional Hospital,14575 Elizabeth River Suite 458,Jeffreymouth,PW,67278,+1-803-937-4522,398,106,Community,IV
+H40015,Ronaldhaven General Hospital,9237 Michael Common Suite 422,West Gabriel,ID,52379,001-533-886-7233x9484,130,14,Teaching,
+H40016,Bethchester Medical Center,42190 David Pass,Peterhaven,WA,69169,+1-605-941-3480x8637,541,116,Teaching,
+H40017,Andrewport Community Hospital,24262 Adams Lakes Suite 348,Hugheshaven,TN,76813,555.352.1462,602,70,Specialty,IV
+H40018,Taylormouth Medical Center,24309 Alicia Coves,Scottside,WA,76930,869-552-8122x78759,721,41,Community,II
+H40019,South James Regional Hospital,02564 Jones Plaza,Jamesburgh,PW,57435,(883)630-1100x3134,316,24,Specialty,II
+H40020,West Rachel Community Hospital,97272 Christina Club Apt. 912,Kellyland,AR,81726,+1-266-532-1350x56007,510,150,Teaching,II
+H40021,South Michael Regional Hospital,06433 Kristin Run,Tylertown,MN,01382,001-829-824-7728x0926,528,81,Teaching,I
+H40022,East Keithside Regional Hospital,19391 Harrison Ranch Suite 020,Sanchezhaven,WV,02653,936-427-8951x75117,780,185,Community,II
+H40023,Lisaside Community Hospital,0070 Deborah Mews,North Alexandraland,VA,67915,986.994.8447,513,136,Teaching,IV
+H40024,Lake Amanda Community Hospital,55391 Kelly Station Suite 836,Haleybury,NM,45051,(969)553-0666x05881,260,32,Teaching,I
+H40025,New David Community Hospital,9236 Swanson Lodge,Mistyshire,TX,96057,(614)990-5050x3579,645,95,Specialty,I

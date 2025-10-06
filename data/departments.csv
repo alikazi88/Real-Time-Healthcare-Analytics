@@ -1,0 +1,187 @@
+department_id,hospital_id,department_name,department_type,head_physician,total_beds,available_beds
+D50001,H40001,Radiology,Radiology,Dr. Adams,49,17
+D50002,H40001,Surgery,Surgery,Dr. Smith,15,5
+D50003,H40001,Internal Medicine,Internal Medicine,Dr. Huerta,46,14
+D50004,H40001,Oncology,Oncology,Dr. Smith,11,3
+D50005,H40001,Cardiology,Cardiology,Dr. Williams,49,8
+D50006,H40001,Emergency,Emergency,Dr. Jones,20,8
+D50007,H40001,Pediatrics,Pediatrics,Dr. Downs,15,3
+D50008,H40001,Orthopedics,Orthopedics,Dr. Martinez,11,4
+D50009,H40002,Internal Medicine,Internal Medicine,Dr. Andrade,30,3
+D50010,H40002,Oncology,Oncology,Dr. Jones,28,2
+D50011,H40002,Neurology,Neurology,Dr. Lynch,11,2
+D50012,H40002,Radiology,Radiology,Dr. Bolton,46,15
+D50013,H40002,ICU,ICU,Dr. Hawkins,39,4
+D50014,H40002,Cardiology,Cardiology,Dr. Burnett,48,15
+D50015,H40002,Orthopedics,Orthopedics,Dr. Massey,25,3
+D50016,H40002,Surgery,Surgery,Dr. Nguyen,39,9
+D50017,H40002,Emergency,Emergency,Dr. Rowe,17,5
+D50018,H40003,Neurology,Neurology,Dr. Green,36,14
+D50019,H40003,Oncology,Oncology,Dr. Ward,43,16
+D50020,H40003,ICU,ICU,Dr. Smith,34,2
+D50021,H40003,Pediatrics,Pediatrics,Dr. Davis,36,5
+D50022,H40003,Emergency,Emergency,Dr. Davis,44,4
+D50023,H40003,Surgery,Surgery,Dr. Castro,48,18
+D50024,H40003,Orthopedics,Orthopedics,Dr. Delacruz,11,4
+D50025,H40004,Emergency,Emergency,Dr. Matthews,42,15
+D50026,H40004,Orthopedics,Orthopedics,Dr. Valentine,37,13
+D50027,H40004,Surgery,Surgery,Dr. Lopez,17,1
+D50028,H40004,ICU,ICU,Dr. Haney,19,7
+D50029,H40004,Pediatrics,Pediatrics,Dr. Munoz,26,10
+D50030,H40004,Radiology,Radiology,Dr. Hansen,17,6
+D50031,H40004,Neurology,Neurology,Dr. Hall,20,6
+D50032,H40004,Cardiology,Cardiology,Dr. Smith,36,11
+D50033,H40005,Neurology,Neurology,Dr. Richmond,14,4
+D50034,H40005,Oncology,Oncology,Dr. Charles,41,8
+D50035,H40005,ICU,ICU,Dr. Johnson,26,6
+D50036,H40005,Cardiology,Cardiology,Dr. Shelton,28,8
+D50037,H40005,Radiology,Radiology,Dr. Wallace,31,8
+D50038,H40005,Emergency,Emergency,Dr. Santos,26,10
+D50039,H40005,Pediatrics,Pediatrics,Dr. Douglas,27,10
+D50040,H40006,Neurology,Neurology,Dr. Reese,33,10
+D50041,H40006,Radiology,Radiology,Dr. Hoover,33,12
+D50042,H40006,Orthopedics,Orthopedics,Dr. Martinez,28,5
+D50043,H40006,Emergency,Emergency,Dr. Hoffman,20,5
+D50044,H40006,Cardiology,Cardiology,Dr. Harris,40,15
+D50045,H40007,Orthopedics,Orthopedics,Dr. Barnett,23,5
+D50046,H40007,Neurology,Neurology,Dr. Anderson,19,5
+D50047,H40007,Internal Medicine,Internal Medicine,Dr. Brown,10,3
+D50048,H40007,Cardiology,Cardiology,Dr. Bell,33,12
+D50049,H40007,Radiology,Radiology,Dr. Gregory,42,13
+D50050,H40007,ICU,ICU,Dr. King,40,6
+D50051,H40007,Oncology,Oncology,Dr. Castillo,32,11
+D50052,H40007,Surgery,Surgery,Dr. White,19,5
+D50053,H40007,Emergency,Emergency,Dr. Fletcher,42,11
+D50054,H40007,Pediatrics,Pediatrics,Dr. Howell,43,12
+D50055,H40008,ICU,ICU,Dr. Meza,14,3
+D50056,H40008,Neurology,Neurology,Dr. Roman,24,5
+D50057,H40008,Radiology,Radiology,Dr. Harris,23,4
+D50058,H40008,Cardiology,Cardiology,Dr. Gonzalez,19,3
+D50059,H40008,Oncology,Oncology,Dr. Melton,48,4
+D50060,H40008,Pediatrics,Pediatrics,Dr. White,22,6
+D50061,H40008,Emergency,Emergency,Dr. Sutton,41,15
+D50062,H40008,Internal Medicine,Internal Medicine,Dr. Lane,46,1
+D50063,H40009,Internal Medicine,Internal Medicine,Dr. Morris,42,3
+D50064,H40009,Oncology,Oncology,Dr. Nelson,27,9
+D50065,H40009,Radiology,Radiology,Dr. White,44,3
+D50066,H40009,Neurology,Neurology,Dr. Moore,13,4
+D50067,H40009,Pediatrics,Pediatrics,Dr. Carter,46,17
+D50068,H40009,Emergency,Emergency,Dr. Briggs,25,4
+D50069,H40009,ICU,ICU,Dr. Zimmerman,26,3
+D50070,H40009,Surgery,Surgery,Dr. Wilson,25,4
+D50071,H40009,Orthopedics,Orthopedics,Dr. Houston,39,3
+D50072,H40009,Cardiology,Cardiology,Dr. Miller,12,3
+D50073,H40010,Orthopedics,Orthopedics,Dr. Hernandez,24,4
+D50074,H40010,Cardiology,Cardiology,Dr. Wright,47,16
+D50075,H40010,Oncology,Oncology,Dr. Morris,39,2
+D50076,H40010,Pediatrics,Pediatrics,Dr. Benton,44,2
+D50077,H40010,Emergency,Emergency,Dr. Obrien,30,11
+D50078,H40010,Internal Medicine,Internal Medicine,Dr. Cherry,14,2
+D50079,H40010,Neurology,Neurology,Dr. Wilcox,40,4
+D50080,H40010,Surgery,Surgery,Dr. Cunningham,38,2
+D50081,H40010,ICU,ICU,Dr. Long,40,7
+D50082,H40011,Internal Medicine,Internal Medicine,Dr. Smith,10,4
+D50083,H40011,Oncology,Oncology,Dr. Rangel,17,6
+D50084,H40011,ICU,ICU,Dr. Lewis,38,13
+D50085,H40011,Neurology,Neurology,Dr. Rivera,22,8
+D50086,H40011,Orthopedics,Orthopedics,Dr. Norman,10,3
+D50087,H40012,Radiology,Radiology,Dr. Robinson,28,11
+D50088,H40012,Orthopedics,Orthopedics,Dr. Dickerson,29,5
+D50089,H40012,ICU,ICU,Dr. Wright,44,8
+D50090,H40012,Pediatrics,Pediatrics,Dr. Hernandez,31,5
+D50091,H40012,Cardiology,Cardiology,Dr. Cooley,45,17
+D50092,H40012,Neurology,Neurology,Dr. Jimenez,29,11
+D50093,H40012,Oncology,Oncology,Dr. Carlson,38,2
+D50094,H40012,Internal Medicine,Internal Medicine,Dr. Davis,21,8
+D50095,H40013,Pediatrics,Pediatrics,Dr. Brown,21,2
+D50096,H40013,Internal Medicine,Internal Medicine,Dr. Washington,37,11
+D50097,H40013,ICU,ICU,Dr. Stone,29,2
+D50098,H40013,Oncology,Oncology,Dr. Moreno,38,6
+D50099,H40013,Cardiology,Cardiology,Dr. Nelson,50,18
+D50100,H40014,Oncology,Oncology,Dr. Warren,29,6
+D50101,H40014,Cardiology,Cardiology,Dr. Coleman,43,16
+D50102,H40014,Radiology,Radiology,Dr. George,16,6
+D50103,H40014,Internal Medicine,Internal Medicine,Dr. Smith,29,10
+D50104,H40014,Neurology,Neurology,Dr. Cooper,23,3
+D50105,H40014,Orthopedics,Orthopedics,Dr. Marshall,30,3
+D50106,H40015,Surgery,Surgery,Dr. King,30,9
+D50107,H40015,Neurology,Neurology,Dr. Walsh,40,14
+D50108,H40015,Internal Medicine,Internal Medicine,Dr. Mills,27,4
+D50109,H40015,Orthopedics,Orthopedics,Dr. Hart,26,8
+D50110,H40015,Pediatrics,Pediatrics,Dr. Harper,29,6
+D50111,H40015,Cardiology,Cardiology,Dr. Lopez,19,3
+D50112,H40016,Pediatrics,Pediatrics,Dr. Barber,36,1
+D50113,H40016,Radiology,Radiology,Dr. Stone,35,1
+D50114,H40016,ICU,ICU,Dr. Hansen,36,6
+D50115,H40016,Neurology,Neurology,Dr. Williams,18,4
+D50116,H40016,Oncology,Oncology,Dr. Austin,27,1
+D50117,H40016,Orthopedics,Orthopedics,Dr. Lee,22,4
+D50118,H40016,Internal Medicine,Internal Medicine,Dr. Todd,26,5
+D50119,H40017,Emergency,Emergency,Dr. Love,23,9
+D50120,H40017,Pediatrics,Pediatrics,Dr. Stone,38,14
+D50121,H40017,Surgery,Surgery,Dr. Morgan,27,2
+D50122,H40017,ICU,ICU,Dr. Richmond,14,2
+D50123,H40017,Oncology,Oncology,Dr. Webb,20,6
+D50124,H40017,Neurology,Neurology,Dr. Morris,40,16
+D50125,H40017,Cardiology,Cardiology,Dr. Berry,12,4
+D50126,H40018,ICU,ICU,Dr. Herrera,27,9
+D50127,H40018,Oncology,Oncology,Dr. Douglas,33,8
+D50128,H40018,Orthopedics,Orthopedics,Dr. Tran,28,2
+D50129,H40018,Radiology,Radiology,Dr. Lewis,40,5
+D50130,H40018,Surgery,Surgery,Dr. Moreno,14,3
+D50131,H40018,Internal Medicine,Internal Medicine,Dr. Berry,36,14
+D50132,H40018,Emergency,Emergency,Dr. Martin,19,7
+D50133,H40018,Pediatrics,Pediatrics,Dr. White,19,5
+D50134,H40018,Neurology,Neurology,Dr. Clarke,29,10
+D50135,H40018,Cardiology,Cardiology,Dr. Ramirez,22,2
+D50136,H40019,Oncology,Oncology,Dr. Solomon,14,3
+D50137,H40019,Pediatrics,Pediatrics,Dr. Jones,33,13
+D50138,H40019,Orthopedics,Orthopedics,Dr. Norton,38,12
+D50139,H40019,ICU,ICU,Dr. Mullen,23,3
+D50140,H40019,Surgery,Surgery,Dr. Lane,30,8
+D50141,H40019,Neurology,Neurology,Dr. Crawford,24,8
+D50142,H40019,Emergency,Emergency,Dr. Foster,33,6
+D50143,H40019,Radiology,Radiology,Dr. Harvey,22,5
+D50144,H40020,Radiology,Radiology,Dr. Burns,35,13
+D50145,H40020,Emergency,Emergency,Dr. Walker,41,2
+D50146,H40020,Neurology,Neurology,Dr. Garcia,43,2
+D50147,H40020,Internal Medicine,Internal Medicine,Dr. Hernandez,42,12
+D50148,H40020,Pediatrics,Pediatrics,Dr. Dean,11,4
+D50149,H40020,Oncology,Oncology,Dr. Allen,12,3
+D50150,H40020,Orthopedics,Orthopedics,Dr. Hanson,44,16
+D50151,H40021,Radiology,Radiology,Dr. Frazier,45,4
+D50152,H40021,Pediatrics,Pediatrics,Dr. Williams,44,6
+D50153,H40021,Cardiology,Cardiology,Dr. Howard,42,3
+D50154,H40021,Internal Medicine,Internal Medicine,Dr. Williams,46,15
+D50155,H40021,Emergency,Emergency,Dr. Garcia,49,7
+D50156,H40021,Orthopedics,Orthopedics,Dr. Lindsey,14,4
+D50157,H40021,Surgery,Surgery,Dr. Peterson,27,8
+D50158,H40022,Neurology,Neurology,Dr. Steele,43,14
+D50159,H40022,Pediatrics,Pediatrics,Dr. Gallegos,11,4
+D50160,H40022,Cardiology,Cardiology,Dr. Richmond,46,10
+D50161,H40022,ICU,ICU,Dr. Moore,10,4
+D50162,H40022,Internal Medicine,Internal Medicine,Dr. Wilson,11,1
+D50163,H40022,Orthopedics,Orthopedics,Dr. Parrish,24,6
+D50164,H40022,Radiology,Radiology,Dr. Miller,37,3
+D50165,H40022,Surgery,Surgery,Dr. Case,26,4
+D50166,H40023,Pediatrics,Pediatrics,Dr. Myers,22,3
+D50167,H40023,Internal Medicine,Internal Medicine,Dr. White,23,5
+D50168,H40023,ICU,ICU,Dr. Johnson,21,2
+D50169,H40023,Radiology,Radiology,Dr. Thomas,11,1
+D50170,H40023,Surgery,Surgery,Dr. Walker,18,5
+D50171,H40023,Cardiology,Cardiology,Dr. Rush,32,2
+D50172,H40023,Neurology,Neurology,Dr. Robinson,30,6
+D50173,H40023,Oncology,Oncology,Dr. Summers,24,4
+D50174,H40023,Emergency,Emergency,Dr. Salas,22,5
+D50175,H40024,Surgery,Surgery,Dr. Bryan,18,4
+D50176,H40024,Orthopedics,Orthopedics,Dr. Wade,17,4
+D50177,H40024,Oncology,Oncology,Dr. Hunt,11,4
+D50178,H40024,Cardiology,Cardiology,Dr. Wagner,23,7
+D50179,H40024,Neurology,Neurology,Dr. Madden,13,4
+D50180,H40024,Emergency,Emergency,Dr. Jenkins,38,7
+D50181,H40025,Oncology,Oncology,Dr. Diaz,47,17
+D50182,H40025,Surgery,Surgery,Dr. Grant,17,2
+D50183,H40025,Cardiology,Cardiology,Dr. Shannon,23,2
+D50184,H40025,Emergency,Emergency,Dr. Lopez,41,12
+D50185,H40025,ICU,ICU,Dr. Davidson,30,7
+D50186,H40025,Orthopedics,Orthopedics,Dr. Graham,22,4
