@@ -1,0 +1,26 @@
+HOSPITAL_ID,HOSPITAL_NAME,CITY,STATE,TOTAL_BEDS,TOTAL_ADMISSIONS,UNIQUE_PATIENTS,AVG_LENGTH_OF_STAY,READMISSION_RATE_30DAY,AVG_CHARGES_PER_ADMISSION
+H40004,Howellfurt General Hospital,Thompsonberg,TX,611,628,595,5.98,5.57,30840.34
+H40006,South Jessica General Hospital,North Benjamin,VA,431,624,588,5.6,4.33,29883.79
+H40010,Port Christophermouth Medical Center,North David,VA,224,554,526,5.61,6.86,29652.19
+H40014,Mitchellton General Hospital,Jeffreymouth,PW,749,586,548,5.79,4.95,30396.15
+H40016,Bethchester Medical Center,Peterhaven,WA,747,607,567,5.55,6.43,30003.52
+H40017,Andrewport General Hospital,Hugheshaven,TN,600,623,579,5.93,6.58,30646.64
+H40018,Taylormouth General Hospital,Scottside,WA,623,558,531,5.66,6.09,30067.03
+H40020,West Rachel General Hospital,Kellyland,AR,717,549,524,5.61,5.83,29986.98
+H40022,East Keithside Medical Center,Sanchezhaven,WV,160,618,578,5.61,4.69,30264.05
+H40001,Smithmouth General Hospital,Lake Dawn,MH,253,617,578,5.94,5.83,31034.82
+H40002,Montgomerychester Medical Center,New Jackview,GU,609,622,584,5.69,6.11,30355.14
+H40003,Davidtown Medical Center,Fernandezfurt,UT,384,586,547,5.79,5.12,30506.15
+H40005,Port Reginaldborough General Hospital,East Jasonberg,KY,781,600,561,5.64,6.0,30146.53
+H40007,Melissabury General Hospital,Lake Kelly,WY,340,605,572,5.93,4.3,30676.62
+H40008,Jennamouth General Hospital,South Ronald,LA,602,627,588,5.76,6.06,30335.62
+H40009,Alexisborough Regional Hospital,Port Stephaniemouth,IN,745,620,586,5.8,5.81,29996.67
+H40011,Michaelborough General Hospital,South Thomas,MD,482,585,554,5.64,5.64,29893.87
+H40012,Holmesside General Hospital,Jacksonland,MI,118,583,548,5.83,4.97,30531.93
+H40013,Michaelshire Regional Hospital,West Loretta,AR,314,598,567,5.88,3.68,30605.3
+H40015,Ronaldhaven Medical Center,West Gabriel,ID,439,626,587,5.62,5.59,30283.46
+H40019,South James Regional Hospital,Jamesburgh,PW,429,589,558,5.83,3.4,30217.3
+H40021,South Michael General Hospital,Tylertown,MN,498,585,542,5.84,8.72,30180.02
+H40023,Lisaside Regional Hospital,North Alexandraland,VA,435,585,554,5.76,4.62,30687.53
+H40024,Lake Amanda General Hospital,Haleybury,NM,249,612,562,5.76,6.54,30367.19
+H40025,New David Medical Center,Mistyshire,TX,719,613,575,5.83,7.67,30044.55

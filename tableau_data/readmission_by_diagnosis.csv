@@ -1,0 +1,11 @@
+CONDITION_NAME,CATEGORY,TOTAL_ADMISSIONS,READMISSIONS_30DAY,READMISSION_RATE,AVG_LOS
+Sepsis,Infectious,1532,95,6.2,9.46
+Diabetes Mellitus Type 2,Endocrine,1486,92,6.19,3.5
+Acute Myocardial Infarction,Cardiovascular,1495,91,6.09,7.6
+COPD,Respiratory,1484,90,6.06,5.57
+Atrial Fibrillation,Cardiovascular,1525,89,5.84,3.67
+Hypertension,Cardiovascular,1503,84,5.59,2.55
+Chronic Kidney Disease,Renal,1497,83,5.54,5.64
+Stroke,Neurological,1488,77,5.17,8.47
+Congestive Heart Failure,Cardiovascular,1517,78,5.14,6.55
+Pneumonia,Respiratory,1473,69,4.68,4.49

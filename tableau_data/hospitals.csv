@@ -1,0 +1,26 @@
+HOSPITAL_ID,HOSPITAL_NAME,ADDRESS,CITY,STATE,ZIP_CODE,PHONE,TOTAL_BEDS,AVAILABLE_BEDS,HOSPITAL_TYPE,TRAUMA_LEVEL,CREATED_DATE
+H40001,Smithmouth General Hospital,5897 James Club Apt. 457,Lake Dawn,MH,65782,(394)527-1394,253,44,Specialty,I,2025-10-06 21:40:07.495193
+H40002,Montgomerychester Medical Center,6961 Rivera Motorway,New Jackview,GU,16317,+1-840-752-9353x6582,609,110,Teaching,,2025-10-06 21:40:07.495193
+H40003,Davidtown Medical Center,13803 Kimberly Villages,Fernandezfurt,UT,15269,248-290-7397,384,39,Community,,2025-10-06 21:40:07.495193
+H40004,Howellfurt General Hospital,80576 Hatfield Highway Suite 469,Thompsonberg,TX,65483,705-344-1114,611,120,Specialty,IV,2025-10-06 21:40:07.495193
+H40005,Port Reginaldborough General Hospital,712 Roberto Neck Suite 650,East Jasonberg,KY,36790,(658)240-2812x2163,781,25,General,I,2025-10-06 21:40:07.495193
+H40006,South Jessica General Hospital,968 Philip Trail Suite 768,North Benjamin,VA,69506,(439)653-0010x7856,431,100,Teaching,II,2025-10-06 21:40:07.495193
+H40007,Melissabury General Hospital,71944 Christopher Mills Apt. 061,Lake Kelly,WY,99625,505-951-9325,340,76,Specialty,IV,2025-10-06 21:40:07.495193
+H40008,Jennamouth General Hospital,2515 Cole Creek Suite 617,South Ronald,LA,15890,+1-394-271-5044x8161,602,13,Specialty,III,2025-10-06 21:40:07.495193
+H40009,Alexisborough Regional Hospital,522 Thomas Mountains Suite 266,Port Stephaniemouth,IN,47662,001-297-988-1055x266,745,89,Community,,2025-10-06 21:40:07.495193
+H40010,Port Christophermouth Medical Center,2064 Ronald Fall,North David,VA,69456,405.369.9576,224,48,Teaching,III,2025-10-06 21:40:07.495193
+H40011,Michaelborough General Hospital,591 Kevin Throughway,South Thomas,MD,31265,901-481-2084,482,42,Community,I,2025-10-06 21:40:07.495193
+H40012,Holmesside General Hospital,8507 Erin Route Apt. 706,Jacksonland,MI,87614,+1-736-367-5739x653,118,24,Community,II,2025-10-06 21:40:07.495193
+H40013,Michaelshire Regional Hospital,6555 Williams Green Suite 522,West Loretta,AR,18705,(804)903-5997x603,314,51,Specialty,III,2025-10-06 21:40:07.495193
+H40014,Mitchellton General Hospital,14575 Elizabeth River Suite 458,Jeffreymouth,PW,67278,+1-803-937-4522,749,131,Teaching,,2025-10-06 21:40:07.495193
+H40015,Ronaldhaven Medical Center,9237 Michael Common Suite 422,West Gabriel,ID,52379,001-533-886-7233x948,439,99,Specialty,III,2025-10-06 21:40:07.495193
+H40016,Bethchester Medical Center,42190 David Pass,Peterhaven,WA,69169,+1-605-941-3480x8637,747,156,Specialty,II,2025-10-06 21:40:07.495193
+H40017,Andrewport General Hospital,24262 Adams Lakes Suite 348,Hugheshaven,TN,76813,555.352.1462,600,154,General,III,2025-10-06 21:40:07.495193
+H40018,Taylormouth General Hospital,24309 Alicia Coves,Scottside,WA,76930,869-552-8122x78759,623,34,Specialty,,2025-10-06 21:40:07.495193
+H40019,South James Regional Hospital,02564 Jones Plaza,Jamesburgh,PW,57435,(883)630-1100x3134,429,20,Community,IV,2025-10-06 21:40:07.495193
+H40020,West Rachel General Hospital,97272 Christina Club Apt. 912,Kellyland,AR,81726,+1-266-532-1350x5600,717,196,General,IV,2025-10-06 21:40:07.495193
+H40021,South Michael General Hospital,06433 Kristin Run,Tylertown,MN,01382,001-829-824-7728x092,498,59,Specialty,III,2025-10-06 21:40:07.495193
+H40022,East Keithside Medical Center,19391 Harrison Ranch Suite 020,Sanchezhaven,WV,02653,936-427-8951x75117,160,40,Specialty,I,2025-10-06 21:40:07.495193
+H40023,Lisaside Regional Hospital,0070 Deborah Mews,North Alexandraland,VA,67915,986.994.8447,435,55,Community,,2025-10-06 21:40:07.495193
+H40024,Lake Amanda General Hospital,55391 Kelly Station Suite 836,Haleybury,NM,45051,(969)553-0666x05881,249,44,Community,III,2025-10-06 21:40:07.495193
+H40025,New David Medical Center,9236 Swanson Lodge,Mistyshire,TX,96057,(614)990-5050x3579,719,147,Specialty,,2025-10-06 21:40:07.495193

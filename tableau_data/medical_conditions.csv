@@ -1,0 +1,11 @@
+CONDITION_ID,CONDITION_NAME,ICD10_CODE,CATEGORY,SEVERITY_LEVEL,DESCRIPTION,CREATED_DATE
+C10001,Diabetes Mellitus Type 2,E11.9,Endocrine,Moderate,,2025-10-06 21:39:52.417710
+C10002,Hypertension,I10,Cardiovascular,Moderate,,2025-10-06 21:39:52.544902
+C10003,Congestive Heart Failure,I50.9,Cardiovascular,Severe,,2025-10-06 21:39:52.677213
+C10004,COPD,J44.9,Respiratory,Severe,,2025-10-06 21:39:52.806863
+C10005,Acute Myocardial Infarction,I21.9,Cardiovascular,Critical,,2025-10-06 21:39:52.932867
+C10006,Pneumonia,J18.9,Respiratory,Severe,,2025-10-06 21:39:53.061665
+C10007,Chronic Kidney Disease,N18.9,Renal,Severe,,2025-10-06 21:39:53.188243
+C10008,Sepsis,A41.9,Infectious,Critical,,2025-10-06 21:39:53.314640
+C10009,Stroke,I63.9,Neurological,Critical,,2025-10-06 21:39:53.441627
+C10010,Atrial Fibrillation,I48.91,Cardiovascular,Moderate,,2025-10-06 21:39:53.567887

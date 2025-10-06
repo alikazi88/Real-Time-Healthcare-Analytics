@@ -78,44 +78,26 @@ HAVING COUNT(a.admission_id) >= 10
 ORDER BY readmission_rate DESC;
 
 -- 2.2 Patient Journey Analysis (Recursive CTE)
-WITH RECURSIVE patient_journey AS (
-    -- Anchor: First admission for each patient
-    SELECT 
-        a.patient_id,
-        a.admission_id,
-        a.admission_date,
-        a.discharge_date,
-        a.primary_diagnosis_id,
-        mc.condition_name,
-        a.length_of_stay_days,
-        1 AS admission_number,
-        CAST(NULL AS VARCHAR2(20)) AS previous_admission_id,
-        0 AS days_since_last_admission
-    FROM admissions a
-    JOIN medical_conditions mc ON a.primary_diagnosis_id = mc.condition_id
-    WHERE a.previous_admission_id IS NULL
-    
-    UNION ALL
-    
-    -- Recursive: Subsequent admissions
-    SELECT 
-        a.patient_id,
-        a.admission_id,
-        a.admission_date,
-        a.discharge_date,
-        a.primary_diagnosis_id,
-        mc.condition_name,
-        a.length_of_stay_days,
-        pj.admission_number + 1,
-        pj.admission_id,
-        TRUNC(a.admission_date) - TRUNC(pj.discharge_date) AS days_since_last_admission
-    FROM admissions a
-    JOIN medical_conditions mc ON a.primary_diagnosis_id = mc.condition_id
-    JOIN patient_journey pj ON a.previous_admission_id = pj.admission_id
-    WHERE pj.admission_number < 10  -- Limit recursion depth
-)
-SELECT * FROM patient_journey
-ORDER BY patient_id, admission_number;
+-- 2.2 Patient Journey Analysis (Oracle-compatible)
+CREATE OR REPLACE VIEW v_patient_journey AS
+SELECT
+    a.patient_id,
+    a.admission_id,
+    a.admission_date,
+    a.discharge_date,
+    a.primary_diagnosis_id,
+    mc.condition_name,
+    a.length_of_stay_days,
+    LEVEL AS admission_number,
+    PRIOR a.admission_id AS previous_admission_id,
+    TRUNC(a.admission_date) - TRUNC(PRIOR a.discharge_date) AS days_since_last_admission
+FROM admissions a
+JOIN medical_conditions mc ON a.primary_diagnosis_id = mc.condition_id
+START WITH a.previous_admission_id IS NULL
+CONNECT BY PRIOR a.admission_id = a.previous_admission_id
+AND LEVEL <= 10
+ORDER BY a.patient_id, admission_number;
+
 
 -- 2.3 Readmission Risk Factors Analysis
 CREATE OR REPLACE VIEW v_readmission_risk_factors AS
