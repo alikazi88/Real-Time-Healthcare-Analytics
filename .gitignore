@@ -1,0 +1,45 @@
+# Environment
+.env
+*.env
+
+# Wallet files (NEVER commit these!)
+wallet/
+*.sso
+*.p12
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+*.so
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+data/
+
+# Models
+models/*.rds
+models/*.pkl
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.

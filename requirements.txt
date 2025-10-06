@@ -1,0 +1,12 @@
+pandas
+numpy
+faker
+cx_Oracle
+sqlalchemy
+python-dotenv
+scikit-learn
+xgboost
+shap
+matplotlib
+seaborn
+plotly
